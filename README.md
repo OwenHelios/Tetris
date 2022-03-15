@@ -6,4 +6,4 @@ Added a lighbulb toggle for dark/light background.
 3.15 Fixed fonts and text alignment.
 
 
-![Screenshot](/repository/Screenshot20220315.png)
+![Screenshot](https://github.com/OwenHelios/Tetris/blob/main/Screenshot20220315.PNG)
