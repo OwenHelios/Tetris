@@ -13,7 +13,7 @@ body{
   align-items: center;
   justify-content: center;
   background: radial-gradient(#a1bca6 ,#74c0b2);
-  color: #3c926c;
+  color: #105e3b;
 }
 
 header{
@@ -27,6 +27,7 @@ header{
   text-transform: uppercase;
   font-size: 40px;
   letter-spacing: 10px;
+  font-weight: bold;
 }
 
 .container{
@@ -54,11 +55,13 @@ header{
   justify-content: center;
   width: 200px;
   height: 100%;
+  font-family: cursive;
 }
 
 .side h3{
   text-align: center;
   margin: 10px 0 15px;
+  font-weight: normal;
 }
 
 .preview-window{
@@ -69,11 +72,12 @@ header{
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin-bottom: 15px;
 }
 
 .speed{
   position: relative;
-  margin: 15px 0 0;
+  line-height: 25px;
 }
 
 .speed a{

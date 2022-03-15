@@ -21,7 +21,7 @@ lightSwitch.addEventListener('click', () => {
   console.log(lightSwitch.checked)
   if(lightSwitch.checked){
     body.style.background = 'radial-gradient(#a1bca6 ,#74c0b2)'
-    body.style.color = '#3c926c'
+    body.style.color = '#105e3b'
     game.style.backgroundColor = 'rgba(0, 0, 0, .1)'
   }else{
     body.style.background = 'black'
